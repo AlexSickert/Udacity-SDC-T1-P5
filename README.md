@@ -50,7 +50,10 @@ I realized that the accuracy percentage when training the SVM is quite meaningle
 
 The final output of the video can be found in the subdirectory output_video/ and file ./video/project_video_output.mp4 
 
-[LINK TO VIDEO (./video/project_video_output.mp4) ](./video/project_video_output.mp4)
+[LINK TO VIDEO (./video/project_video_output.mp4) ](./output_video/project_video_output.mp4)
+
+https://github.com/AlexSickert/Udacity-SDC-T1-P5/raw/master/output_video/project_video_output.mp4
+
 
 The video processing is being performed using the function rocess_video(img) in training.py. In line 231 to 251 we first identify the boxes that contain vehicle images. To do that we apply the sliding window approach in line 231 to 244. The prediction itself happens in line 239 in training.py
 
