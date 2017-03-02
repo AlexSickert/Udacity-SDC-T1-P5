@@ -10,7 +10,7 @@ The training of the Support Vector Machine is performed in **train_and_process.p
 
 All other files provide functions used by these three mentioned files.
 
-Once **train_and_process.py** is execute, **test_image_pipeline.py** and **video_pipeline.py** can be executed
+Once **train_and_process.py** was executed, **test_image_pipeline.py** and **video_pipeline.py** can be executed
 
 ##Histogram of Oriented Gradients (HOG)
 
