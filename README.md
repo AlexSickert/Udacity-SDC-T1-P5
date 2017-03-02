@@ -39,8 +39,8 @@ Here I show the main steps of the pipeline
 
 ![41-original-.jpg](./output_images/41-original-.jpg)
 ![42-all boxes -.jpg](./output_images/42-all boxes -.jpg)
-![43-heatmap.jpg](./output_images/43-heatmap.jpg)
-![44-threshold heatmap.jpg](./output_images/44-threshold heatmap.jpg)
+![43-heatmap.jpg](./output_images/43-heatmap -.jpg)
+![44-threshold heatmap.jpg](./output_images/44-threshold heatmap -.jpg)
 ![45-final result -.jpg](./output_images/45-final result -.jpg)
 
 
