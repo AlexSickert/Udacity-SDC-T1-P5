@@ -37,10 +37,24 @@ I used 50% overlap because i thought that it is sufficient. However, I have now 
 
 Here I show the main steps of the pipeline
 
+This is the original image 
+
 ![41-original-.jpg](./output_images/41-original-.jpg)
+
+This image shows the areas where vehicles were detected - including false positives
+
 ![42-all boxes -.jpg](./output_images/42-all boxes -.jpg)
+
+This image shows the heatmap of the occurence of vehicle detection
+
 ![43-heatmap.jpg](./output_images/43-heatmap -.jpg)
+
+After applying a treshold we have a different heatmap:
+
 ![44-threshold heatmap.jpg](./output_images/44-threshold heatmap -.jpg)
+
+Then I use the heatmap for writing boxes on the final image
+
 ![45-final result -.jpg](./output_images/45-final result -.jpg)
 
 
