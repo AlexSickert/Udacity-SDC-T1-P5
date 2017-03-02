@@ -3,15 +3,14 @@
 ##Introduction how the code works
 
 There are two use cases for this code:
- Find cars on individual images. This use case is handled in test_image_pipeline.py
-Find cars in a video. This use case is handled in video_pipeline.py
+- Find cars on individual images. This use case is handled in test_image_pipeline.py
+- Find cars in a video. This use case is handled in video_pipeline.py
 
 The training of the Support Vector Machine is performed in **train_and_process.py**
 
 All other files provide functions used by these three mentioned files.
 
-Once **train_and_process.py** is execute, **test_image_pipeline.py
-** and **video_pipeline.py** can be executed
+Once **train_and_process.py** is execute, **test_image_pipeline.py** and **video_pipeline.py** can be executed
 
 ##Histogram of Oriented Gradients (HOG)
 
